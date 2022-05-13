@@ -1,0 +1,42 @@
+body {
+    font-family: Copperplate;
+    background: #FAE4EE;
+    color: #5C4442;
+    font-size: 18px;
+}
+
+h1 {
+    text-align: center;
+    }
+
+p {
+    font-size: 20px;
+}
+
+img {
+    height: auto;
+    width: 100 px;
+    border-radius: 10px;
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.credit {
+    text-align: center;
+}
+
+a:link {
+    color: #945F6A;
+}
+
+a:visited {
+    color: #BA8F54;
+
+}
+
+h1,h2 {
+    color: #5C4442;
+}
